@@ -1,8 +1,8 @@
 # Design and Simulation of Half Adder and Full Adder
 
 **Course:** Digital Design and Computer Architecture (DDCA)  
-**Batch No:** 8
-
+**Section:** 2  
+**Batch Number:** 8  
 **Academic Year:** 2026  
 
 ---
