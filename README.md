@@ -27,7 +27,7 @@
 * **Project Presentation (`.pptx` / `.ppt`):**  
   * `Half_Adder_Full_Adder_Logism.pptx` — Slide deck covering logic expressions, K-Maps, gate-level diagrams, and output waveform demonstrations.
 * **Project Presentation in pdf (`.pdf`):**  
-  * `Half_Adder_Full_Adder_Logism.pdf` — pdf format of ppt.
+  * `Half_Adder_Full_Adder_Logism pdf.pdf` — pdf format of ppt.
 
 ---
 
