@@ -1,8 +1,8 @@
 # Design and Simulation of Half Adder and Full Adder
 
 **Course:** Digital Design and Computer Architecture (DDCA)  
-**Batch No:** 8
-
+**Section:** 2  
+**Batch Number:** 8  
 **Academic Year:** 2026  
 
 ---
@@ -18,26 +18,3 @@
 | 5 | Wafa Mehajabeen | 2620030428 |
 
 ---
-
-## 📁 Repository & Submission Contents
-
-* **Logisim Circuit Files (`.circ`):**  
-  * `FULLadder.circ` — Contains the modular schematic design for Half Adder circuits.
-  * `HALFadder.circ` — Contains the modular schematic design for Full Adder circuits.
-* **Project Presentation (`.pptx` / `.ppt`):**  
-  * `Half_Adder_Full_Adder_Logism.pptx` — Slide deck covering logic expressions, K-Maps, gate-level diagrams, and output waveform demonstrations.
-* **Project Presentation in pdf (`.pdf`):**  
-  * `Half_Adder_Full_Adder_Logism.pdf` — pdf format of ppt.
-
----
-
-## ⚙️ How to Run in Logisim
-
-1. **Prerequisite:** Download and install **Logisim** or **Logisim-Evolution**.
-2. **Open Project:**
-   * Launch Logisim.
-   * Navigate to `File` > `Open` and load `adder_circuits.circ`.
-3. **Simulate & Test:**
-   * Select the **Poke Tool** (hand icon in the top toolbar).
-   * Toggle the input pins ($A$, $B$, $C_{in}$) between `0` and `1` to verify outputs against the theoretical truth tables.
-   * Enable tick propagation under `Simulate` > `Ticks Enabled` if testing with automated clock pulses.
